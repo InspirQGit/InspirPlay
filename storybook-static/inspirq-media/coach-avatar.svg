@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title description">
+  <title id="title">InspirQ coach profile</title>
+  <desc id="description">A neutral illustrated coach profile on an energy yellow background.</desc>
+  <rect width="400" height="400" fill="#FFC400"/>
+  <circle cx="200" cy="145" r="70" fill="#17140A"/>
+  <path d="M72 374c8-92 55-146 128-146s120 54 128 146" fill="#17140A"/>
+  <path d="M126 292c19 22 44 34 74 34s55-12 74-34" fill="none" stroke="#FFF9D6" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-labelledby="title description">
+  <title id="title">InspirQ sports gear</title>
+  <desc id="description">An illustrated racket and ball on a performance ink background.</desc>
+  <rect width="700" height="700" fill="#17140A"/>
+  <circle cx="300" cy="250" r="142" fill="none" stroke="#FFC400" stroke-width="26"/>
+  <path d="M398 356 548 544" stroke="#FFC400" stroke-width="34" stroke-linecap="round"/>
+  <path d="M206 148 394 352M394 148 206 352M170 205h260M160 270h280" stroke="#FFF9D6" stroke-width="8" opacity=".72"/>
+  <circle cx="510" cy="188" r="62" fill="#FFF9D6"/>
+  <path d="M454 164c36 7 66 32 82 68M484 130c-1 42 19 76 58 101" fill="none" stroke="#755900" stroke-width="8"/>
+</svg>
